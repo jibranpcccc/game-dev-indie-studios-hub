@@ -1,15 +1,321 @@
 [
   {
-    "id": "indie-game-developers-&-modders-hub-telegram-1",
-    "title": "Unity Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Unity",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on unity discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/indie-game-developers-&-modders-hub-telegram-1",
+    "id": "game-jams-reddit-1",
+    "title": "r/gamedev Premier Developer Subreddit",
+    "platform": "Reddit",
+    "category": "game jams",
+    "memberCount": "1,400,000+ members",
+    "description": "The central Reddit community for game creators covering mechanics design, post-mortems, Steam publishing, marketing, and engine comparisons.",
+    "joinUrl": "https://www.reddit.com/r/gamedev/",
+    "tags": [
+      "game-jams",
+      "reddit",
+      "steam",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "unity-reddit-2",
+    "title": "r/unity3d Engine Creators Guild",
+    "platform": "Reddit",
+    "category": "unity",
+    "memberCount": "420,000+ members",
+    "description": "Dedicated community for Unity developers sharing C# scripting techniques, shader graphs, DOTS architecture, and asset workflows.",
+    "joinUrl": "https://www.reddit.com/r/unity3d/",
     "tags": [
       "unity",
-      "telegram",
+      "reddit",
+      "csharp",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "unreal-engine-5-reddit-3",
+    "title": "r/unrealengine Next-Gen Developers",
+    "platform": "Reddit",
+    "category": "unreal engine 5",
+    "memberCount": "380,000+ members",
+    "description": "Subreddit for Unreal Engine 5 developers discussing Nanite, Lumen, Blueprints, C++ optimization, and photorealistic level design.",
+    "joinUrl": "https://www.reddit.com/r/unrealengine/",
+    "tags": [
+      "unreal-engine-5",
+      "reddit",
+      "ue5",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "godot-reddit-4",
+    "title": "r/godot Open Source Game Engine Guild",
+    "platform": "Reddit",
+    "category": "godot",
+    "memberCount": "210,000+ members",
+    "description": "Passionate open-source community for Godot 4 creators sharing GDScript patterns, node trees, 2D physics, and web exports.",
+    "joinUrl": "https://www.reddit.com/r/godot/",
+    "tags": [
+      "godot",
+      "reddit",
+      "gdscript",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "pixel-art-reddit-5",
+    "title": "r/PixelArt Showcase & Feedback Guild",
+    "platform": "Reddit",
+    "category": "pixel art",
+    "memberCount": "640,000+ members",
+    "description": "The definitive pixel art gallery and critique forum for sprite animators, tileset creators, and retro aesthetic designers.",
+    "joinUrl": "https://www.reddit.com/r/PixelArt/",
+    "tags": [
+      "pixel-art",
+      "reddit",
+      "sprites",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-reddit-6",
+    "title": "r/gameassets Free & Open Resource Hub",
+    "platform": "Reddit",
+    "category": "game jams",
+    "memberCount": "180,000+ members",
+    "description": "Curated repository of CC0 textures, audio sound effects, 3D models, UI kits, and fonts for game development and game jams.",
+    "joinUrl": "https://www.reddit.com/r/gameassets/",
+    "tags": [
+      "game-jams",
+      "reddit",
+      "cc0",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-reddit-7",
+    "title": "r/IndieGaming Showcase Community",
+    "platform": "Reddit",
+    "category": "game jams",
+    "memberCount": "290,000+ members",
+    "description": "Showcase and discovery subreddit for independent games, devlogs, gameplay trailers, and community playtesting feedback.",
+    "joinUrl": "https://www.reddit.com/r/IndieGaming/",
+    "tags": [
+      "game-jams",
+      "reddit",
+      "showcase",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-reddit-8",
+    "title": "r/gamedesign Systems & Mechanics Guild",
+    "platform": "Reddit",
+    "category": "game jams",
+    "memberCount": "190,000+ members",
+    "description": "Deep discussions on player psychology, game loops, progression balance, procedural generation, and narrative design.",
+    "joinUrl": "https://www.reddit.com/r/gamedesign/",
+    "tags": [
+      "game-jams",
+      "reddit",
+      "mechanics",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-reddit-9",
+    "title": "r/IndieDev Solo & Studio Creators",
+    "platform": "Reddit",
+    "category": "game jams",
+    "memberCount": "160,000+ members",
+    "description": "Resource-sharing hub for solo indie developers and boutique micro-studios navigating Kickstarter, Steam Next Fest, and early access.",
+    "joinUrl": "https://www.reddit.com/r/IndieDev/",
+    "tags": [
+      "game-jams",
+      "reddit",
+      "solodev",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "unity-reddit-10",
+    "title": "r/gameDevClassifieds Talent Marketplace",
+    "platform": "Reddit",
+    "category": "unity",
+    "memberCount": "120,000+ members",
+    "description": "Talent marketplace connecting indie studios with 3D modelers, concept artists, programmers, sound designers, and QA testers.",
+    "joinUrl": "https://www.reddit.com/r/gameDevClassifieds/",
+    "tags": [
+      "unity",
+      "reddit",
+      "jobs",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-reddit-11",
+    "title": "r/playmygame Playtesting & Feedback Hub",
+    "platform": "Reddit",
+    "category": "game jams",
+    "memberCount": "85,000+ members",
+    "description": "Community of passionate playtesters providing honest bugs, UX friction points, and gameplay critique for indie alphas and betas.",
+    "joinUrl": "https://www.reddit.com/r/playmygame/",
+    "tags": [
+      "game-jams",
+      "reddit",
+      "playtest",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "pixel-art-reddit-12",
+    "title": "r/blender 3D Asset Creation Hub",
+    "platform": "Reddit",
+    "category": "pixel art",
+    "memberCount": "1,200,000+ members",
+    "description": "Massive 3D art community exploring low-poly modeling, rigging, geometry nodes, and game-ready asset optimization in Blender.",
+    "joinUrl": "https://www.reddit.com/r/blender/",
+    "tags": [
+      "pixel-art",
+      "reddit",
+      "blender",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "unreal-engine-5-reddit-13",
+    "title": "r/3Dmodeling Asset Pipeline Community",
+    "platform": "Reddit",
+    "category": "unreal engine 5",
+    "memberCount": "340,000+ members",
+    "description": "Hard-surface and organic modeling forum focusing on topology, UV unwrapping, baking normal maps, and PBR texturing.",
+    "joinUrl": "https://www.reddit.com/r/3Dmodeling/",
+    "tags": [
+      "unreal-engine-5",
+      "reddit",
+      "3d",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "pixel-art-reddit-14",
+    "title": "r/gamemaker 2D Studio Collective",
+    "platform": "Reddit",
+    "category": "pixel art",
+    "memberCount": "95,000+ members",
+    "description": "Subreddit for GameMaker Studio creators specializing in GML coding, 2D retro action mechanics, and rapid prototyping.",
+    "joinUrl": "https://www.reddit.com/r/gamemaker/",
+    "tags": [
+      "pixel-art",
+      "reddit",
+      "gamemaker",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "pixel-art-reddit-15",
+    "title": "r/lowpoly Stylized 3D Artistry",
+    "platform": "Reddit",
+    "category": "pixel art",
+    "memberCount": "140,000+ members",
+    "description": "Artistic showcase for flat-shaded, low-polygon retro models, stylized environments, and performance-friendly mobile assets.",
+    "joinUrl": "https://www.reddit.com/r/lowpoly/",
+    "tags": [
+      "pixel-art",
+      "reddit",
+      "lowpoly",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "unity-reddit-16",
+    "title": "r/shaders Technical Art & GLSL Guild",
+    "platform": "Reddit",
+    "category": "unity",
+    "memberCount": "42,000+ members",
+    "description": "Technical art community diving into HLSL, GLSL, raymarching, compute shaders, post-processing FX, and GPU optimization.",
+    "joinUrl": "https://www.reddit.com/r/shaders/",
+    "tags": [
+      "unity",
+      "reddit",
+      "shaders",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "unreal-engine-5-reddit-17",
+    "title": "r/vfx Realtime Visual Effects Forum",
+    "platform": "Reddit",
+    "category": "unreal engine 5",
+    "memberCount": "170,000+ members",
+    "description": "Industry artists sharing particle systems, Niagara FX in Unreal Engine, simulations, and cinematic pipeline integrations.",
+    "joinUrl": "https://www.reddit.com/r/vfx/",
+    "tags": [
+      "unreal-engine-5",
+      "reddit",
+      "vfx",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-reddit-18",
+    "title": "r/gamedevscreens Screenshot Saturday",
+    "platform": "Reddit",
+    "category": "game jams",
+    "memberCount": "68,000+ members",
+    "description": "Visual micro-blogging subreddit where developers share work-in-progress screenshots, GIF animations, and gameplay devlogs.",
+    "joinUrl": "https://www.reddit.com/r/gamedevscreens/",
+    "tags": [
+      "game-jams",
+      "reddit",
+      "screenshots",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-discord-19",
+    "title": "r/gamedev Official Discord Server",
+    "platform": "Discord",
+    "category": "game jams",
+    "memberCount": "110,000+ members",
+    "description": "The primary real-time Discord hub for game creators, with dedicated help channels, voice co-working lounges, and portfolio reviews.",
+    "joinUrl": "https://discord.gg/gamedev",
+    "tags": [
+      "game-jams",
+      "discord",
       "networking",
       "verified"
     ],
@@ -17,496 +323,190 @@
     "featured": true
   },
   {
-    "id": "indie-game-developers-&-modders-hub-discord-2",
-    "title": "Unreal Engine 5 Global Discord Hub",
+    "id": "unity-discord-20",
+    "title": "Unity Official Developer Discord",
     "platform": "Discord",
-    "category": "Unreal Engine 5",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on unreal engine 5 discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/indie-game-developers-&-modders-hub-discord-2",
+    "category": "unity",
+    "memberCount": "195,000+ members",
+    "description": "Live troubleshooting channels, release roadmaps, shader workshops, and direct networking with certified Unity engineers.",
+    "joinUrl": "https://discord.gg/unity",
     "tags": [
-      "unreal-engine-5",
+      "unity",
       "discord",
-      "networking",
+      "csharp",
       "verified"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "indie-game-developers-&-modders-hub-whatsapp-3",
-    "title": "Godot Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Godot",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on godot discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/indie-game-developers-&-modders-hub-whatsapp-3",
+    "id": "unreal-engine-5-discord-21",
+    "title": "Unreal Slackers Discord Community",
+    "platform": "Discord",
+    "category": "unreal engine 5",
+    "memberCount": "210,000+ members",
+    "description": "World's largest Unreal Engine Discord community featuring real-time C++, Blueprints, lighting, and Virtual Production support.",
+    "joinUrl": "https://discord.gg/unreal",
     "tags": [
-      "godot",
-      "whatsapp",
-      "networking",
+      "unreal-engine-5",
+      "discord",
+      "ue5",
       "verified"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "indie-game-developers-&-modders-hub-reddit-4",
-    "title": "Pixel Art Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Pixel Art",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on pixel art discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/indie-game-developers-&-modders-hub-reddit-4",
-    "tags": [
-      "pixel-art",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-telegram-5",
-    "title": "Game Jams Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Game Jams",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on game jams discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/indie-game-developers-&-modders-hub-telegram-5",
-    "tags": [
-      "game-jams",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-discord-6",
-    "title": "Unity Global Discord Hub",
+    "id": "godot-discord-22",
+    "title": "Godot Engine Official Discord",
     "platform": "Discord",
-    "category": "Unity",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on unity discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/indie-game-developers-&-modders-hub-discord-6",
-    "tags": [
-      "unity",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-whatsapp-7",
-    "title": "Unreal Engine 5 Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Unreal Engine 5",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on unreal engine 5 discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/indie-game-developers-&-modders-hub-whatsapp-7",
-    "tags": [
-      "unreal-engine-5",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-reddit-8",
-    "title": "Godot Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Godot",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on godot discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/indie-game-developers-&-modders-hub-reddit-8",
-    "tags": [
-      "godot",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-telegram-9",
-    "title": "Pixel Art Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Pixel Art",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on pixel art discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/indie-game-developers-&-modders-hub-telegram-9",
-    "tags": [
-      "pixel-art",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-discord-10",
-    "title": "Game Jams Global Discord Hub",
-    "platform": "Discord",
-    "category": "Game Jams",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on game jams discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/indie-game-developers-&-modders-hub-discord-10",
-    "tags": [
-      "game-jams",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-whatsapp-11",
-    "title": "Unity Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Unity",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on unity discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/indie-game-developers-&-modders-hub-whatsapp-11",
-    "tags": [
-      "unity",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-reddit-12",
-    "title": "Unreal Engine 5 Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Unreal Engine 5",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on unreal engine 5 discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/indie-game-developers-&-modders-hub-reddit-12",
-    "tags": [
-      "unreal-engine-5",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-telegram-13",
-    "title": "Godot Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Godot",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on godot discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/indie-game-developers-&-modders-hub-telegram-13",
-    "tags": [
-      "godot",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-discord-14",
-    "title": "Pixel Art Global Discord Hub",
-    "platform": "Discord",
-    "category": "Pixel Art",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on pixel art discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/indie-game-developers-&-modders-hub-discord-14",
-    "tags": [
-      "pixel-art",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-whatsapp-15",
-    "title": "Game Jams Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Game Jams",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on game jams discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/indie-game-developers-&-modders-hub-whatsapp-15",
-    "tags": [
-      "game-jams",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-reddit-16",
-    "title": "Unity Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Unity",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on unity discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/indie-game-developers-&-modders-hub-reddit-16",
-    "tags": [
-      "unity",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-telegram-17",
-    "title": "Unreal Engine 5 Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Unreal Engine 5",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on unreal engine 5 discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/indie-game-developers-&-modders-hub-telegram-17",
-    "tags": [
-      "unreal-engine-5",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-discord-18",
-    "title": "Godot Global Discord Hub",
-    "platform": "Discord",
-    "category": "Godot",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on godot discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/indie-game-developers-&-modders-hub-discord-18",
+    "category": "godot",
+    "memberCount": "135,000+ members",
+    "description": "Interactive Godot community providing real-time technical debugging, plugin architecture guidance, and engine release testing.",
+    "joinUrl": "https://discord.gg/godot",
     "tags": [
       "godot",
       "discord",
-      "networking",
+      "gdscript",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "indie-game-developers-&-modders-hub-whatsapp-19",
-    "title": "Pixel Art Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Pixel Art",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on pixel art discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/indie-game-developers-&-modders-hub-whatsapp-19",
+    "id": "pixel-art-discord-23",
+    "title": "Blender Community Official Discord",
+    "platform": "Discord",
+    "category": "pixel art",
+    "memberCount": "180,000+ members",
+    "description": "Premier 3D artist guild with channels for modeling help, material nodes, sculpting, rigging, and game engine asset export.",
+    "joinUrl": "https://discord.gg/blender",
     "tags": [
       "pixel-art",
-      "whatsapp",
-      "networking",
+      "discord",
+      "blender",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "indie-game-developers-&-modders-hub-reddit-20",
-    "title": "Game Jams Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Game Jams",
-    "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on game jams discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/indie-game-developers-&-modders-hub-reddit-20",
+    "id": "pixel-art-discord-24",
+    "title": "GameMaker Studio Community Discord",
+    "platform": "Discord",
+    "category": "pixel art",
+    "memberCount": "55,000+ members",
+    "description": "Vibrant Discord community for 2D game developers, sprite animators, GML scripters, and indie game jam organizers.",
+    "joinUrl": "https://discord.gg/gamemaker",
+    "tags": [
+      "pixel-art",
+      "discord",
+      "gamemaker",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "pixel-art-discord-25",
+    "title": "Pixel Art Guild Discord",
+    "platform": "Discord",
+    "category": "pixel art",
+    "memberCount": "48,000+ members",
+    "description": "Friendly server for pixel artists, color palette enthusiasts, canvas challenges, sprite animation critique, and indie collabs.",
+    "joinUrl": "https://discord.gg/pixelart",
+    "tags": [
+      "pixel-art",
+      "discord",
+      "sprites",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-discord-26",
+    "title": "Indie Game Developers Lounge",
+    "platform": "Discord",
+    "category": "game jams",
+    "memberCount": "36,000+ members",
+    "description": "Cozy collaborative Discord server for solo developers, micro-studios, playtesting feedback, and Steam release milestones.",
+    "joinUrl": "https://discord.gg/indiedev",
     "tags": [
       "game-jams",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-telegram-21",
-    "title": "Unity Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Unity",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on unity discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/indie-game-developers-&-modders-hub-telegram-21",
-    "tags": [
-      "unity",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-discord-22",
-    "title": "Unreal Engine 5 Global Discord Hub",
-    "platform": "Discord",
-    "category": "Unreal Engine 5",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on unreal engine 5 discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/indie-game-developers-&-modders-hub-discord-22",
-    "tags": [
-      "unreal-engine-5",
       "discord",
-      "networking",
+      "indiedev",
       "verified"
     ],
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "indie-game-developers-&-modders-hub-whatsapp-23",
-    "title": "Godot Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Godot",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on godot discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/indie-game-developers-&-modders-hub-whatsapp-23",
+    "id": "game-jams-discord-27",
+    "title": "Ludum Dare Game Jam Discord",
+    "platform": "Discord",
+    "category": "game jams",
+    "memberCount": "28,000+ members",
+    "description": "The official community server for the world's longest running 48-hour and 72-hour accelerated game jam competitions.",
+    "joinUrl": "https://discord.gg/ludumdare",
+    "tags": [
+      "game-jams",
+      "discord",
+      "ludumdare",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-telegram-28",
+    "title": "GameDev International Telegram Hub",
+    "platform": "Telegram",
+    "category": "game jams",
+    "memberCount": "26,000+ members",
+    "description": "Fast-paced Telegram channel sharing curated game development articles, devlog showcases, free asset drops, and industry news.",
+    "joinUrl": "https://t.me/gamedev",
+    "tags": [
+      "game-jams",
+      "telegram",
+      "assets",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "game-jams-telegram-29",
+    "title": "Indie Game Developers Telegram Group",
+    "platform": "Telegram",
+    "category": "game jams",
+    "memberCount": "14,000+ members",
+    "description": "Global community group for indie creators to post devlogs, organize playtests, exchange shader snippets, and form jam teams.",
+    "joinUrl": "https://t.me/indiegamedev",
+    "tags": [
+      "game-jams",
+      "telegram",
+      "playtest",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "godot-telegram-30",
+    "title": "Godot Engine Community Telegram Group",
+    "platform": "Telegram",
+    "category": "godot",
+    "memberCount": "11,500+ members",
+    "description": "Active Telegram group for Godot creators to ask questions, share open-source addons, and discuss engine feature releases.",
+    "joinUrl": "https://t.me/godotengine",
     "tags": [
       "godot",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-reddit-24",
-    "title": "Pixel Art Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Pixel Art",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on pixel art discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/indie-game-developers-&-modders-hub-reddit-24",
-    "tags": [
-      "pixel-art",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-telegram-25",
-    "title": "Game Jams Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Game Jams",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on game jams discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/indie-game-developers-&-modders-hub-telegram-25",
-    "tags": [
-      "game-jams",
       "telegram",
-      "networking",
+      "gdscript",
       "verified"
     ],
     "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-discord-26",
-    "title": "Unity Global Discord Hub",
-    "platform": "Discord",
-    "category": "Unity",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on unity discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/indie-game-developers-&-modders-hub-discord-26",
-    "tags": [
-      "unity",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-whatsapp-27",
-    "title": "Unreal Engine 5 Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Unreal Engine 5",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on unreal engine 5 discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/indie-game-developers-&-modders-hub-whatsapp-27",
-    "tags": [
-      "unreal-engine-5",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-reddit-28",
-    "title": "Godot Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Godot",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on godot discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/indie-game-developers-&-modders-hub-reddit-28",
-    "tags": [
-      "godot",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-telegram-29",
-    "title": "Pixel Art Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Pixel Art",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on pixel art discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/indie-game-developers-&-modders-hub-telegram-29",
-    "tags": [
-      "pixel-art",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "indie-game-developers-&-modders-hub-discord-30",
-    "title": "Game Jams Global Discord Hub",
-    "platform": "Discord",
-    "category": "Game Jams",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on game jams discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/indie-game-developers-&-modders-hub-discord-30",
-    "tags": [
-      "game-jams",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+    "featured": true
   }
 ]
