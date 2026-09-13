@@ -1,5 +1,23 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-forum-20260913-1",
+    "title": "Blender Artists Community Forum",
+    "platform": "Forum",
+    "category": "Blender Forum",
+    "memberCount": "210,000+ members",
+    "description": "The premier community forum for 3D digital art, animation showcases, render techniques, and critiques.",
+    "joinUrl": "https://blenderartists.org",
+    "tags": [
+      "blenderartists",
+      "showcase",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "id": "game-dev-indie-studios-hub-reddit-20260913-1",
     "title": "r/Houdini Procedural Generation & FX",
     "platform": "Reddit",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
   },
   {
