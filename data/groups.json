@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-reddit-20260914-1",
+    "title": "r/cpp High-Performance Graphics Engines",
+    "platform": "Reddit",
+    "category": "C++",
+    "memberCount": "310,000+ members",
+    "description": "Graphics programming with DirectX 12, Vulkan, custom engine architecture, and SIMD optimizations.",
+    "joinUrl": "https://www.reddit.com/r/cpp/",
+    "tags": [
+      "cpp",
+      "vulkan",
+      "directx",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
     "id": "game-dev-indie-studios-hub-telegram-20260914-1",
     "title": "Indie Game Developers Channel",
     "platform": "Telegram",
@@ -14,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
