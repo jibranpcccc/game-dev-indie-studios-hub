@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-reddit-20260915-1",
+    "title": "r/rust Game & Renderer Development",
+    "platform": "Reddit",
+    "category": "Rust",
+    "memberCount": "280,000+ members",
+    "description": "Building graphics renderers and game engines in Rust with WGPU, Bevy, and Vulkan bindings.",
+    "joinUrl": "https://www.reddit.com/r/rust/",
+    "tags": [
+      "rust",
+      "bevy",
+      "wgpu",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
+  },
+  {
     "id": "game-dev-indie-studios-hub-reddit-20260914-1",
     "title": "r/cpp High-Performance Graphics Engines",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {

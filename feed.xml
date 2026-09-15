@@ -4,10 +4,17 @@
     <title>Indie Game Developers &amp; Modders Hub</title>
     <link>https://jibranpcccc.github.io/game-dev-indie-studios-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 10:44:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:00:23 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/game-dev-indie-studios-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                    <item>
+                        <item>
+      <title>📅 Today's Fresh Pick: r/rust Game &amp; Renderer Development (Reddit)</title>
+      <link>https://www.reddit.com/r/rust/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-reddit-20260915-1-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:23 GMT</pubDate>
+      <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: Building graphics renderers and game engines in Rust with WGPU, Bevy, and Vulkan bindings.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/cpp High-Performance Graphics Engines (Reddit)</title>
       <link>https://www.reddit.com/r/cpp/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-reddit-20260914-1-2026-09-14</guid>
