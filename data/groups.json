@@ -1,5 +1,23 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-discord-20260919-1",
+    "title": "Rust Programming Language Discord",
+    "platform": "Discord",
+    "category": "Rust Discord",
+    "memberCount": "95,000+ members",
+    "description": "Dedicated channels for graphics, gamedev, math libraries, and high-performance computing.",
+    "joinUrl": "https://discord.gg/rust-lang",
+    "tags": [
+      "rust",
+      "gamedev",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-19"
+  },
+  {
     "id": "game-dev-indie-studios-hub-telegram-20260918-1",
     "title": "Rust Graphics & Systems News Telegram",
     "platform": "Telegram",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
   },
   {
