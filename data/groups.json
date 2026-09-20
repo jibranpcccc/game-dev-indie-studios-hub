@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-forum-20260920-1",
+    "title": "Rust Users Forum",
+    "platform": "Forum",
+    "category": "Rust Forum",
+    "memberCount": "70,000+ members",
+    "description": "Official community forum discussing systems architecture, SIMD intrinsics, and game engines.",
+    "joinUrl": "https://users.rust-lang.org",
+    "tags": [
+      "rust",
+      "engine",
+      "official",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "game-dev-indie-studios-hub-discord-20260919-1",
     "title": "Rust Programming Language Discord",
     "platform": "Discord",
@@ -14,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {

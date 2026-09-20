@@ -4,10 +4,17 @@
     <title>Indie Game Developers &amp; Modders Hub</title>
     <link>https://jibranpcccc.github.io/game-dev-indie-studios-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:00:24 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/game-dev-indie-studios-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                <item>
+                                    <item>
+      <title>📅 Today's Fresh Pick: Rust Users Forum (Forum)</title>
+      <link>https://users.rust-lang.org</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-forum-20260920-1-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:24 GMT</pubDate>
+      <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: Official community forum discussing systems architecture, SIMD intrinsics, and game engines.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Programming Language Discord (Discord)</title>
       <link>https://discord.gg/rust-lang</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-discord-20260919-1-2026-09-19</guid>
