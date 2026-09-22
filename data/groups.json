@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-reddit-20260922-1",
+    "title": "r/Python Blender Addon Scripting",
+    "platform": "Reddit",
+    "category": "Python",
+    "memberCount": "1,250,000+ members",
+    "description": "Writing custom Blender addons using bpy, procedural mesh generators, and batch rendering scripts.",
+    "joinUrl": "https://www.reddit.com/r/Python/",
+    "tags": [
+      "python",
+      "bpy",
+      "addons",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-22"
+  },
+  {
     "id": "game-dev-indie-studios-hub-discord-20260921-1",
     "title": "The Programmer's Hangout Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-21"
   },
   {
