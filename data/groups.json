@@ -1,5 +1,23 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-discord-20260923-1",
+    "title": "Python Developers Official Discord",
+    "platform": "Discord",
+    "category": "Python Discord",
+    "memberCount": "430,000+ members",
+    "description": "Python community server with support for automation scripts, math libraries, and data formats.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "automation",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-23"
+  },
+  {
     "id": "game-dev-indie-studios-hub-reddit-20260922-1",
     "title": "r/Python Blender Addon Scripting",
     "platform": "Reddit",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-22"
   },
   {
