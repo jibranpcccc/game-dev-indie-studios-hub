@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-telegram-20260924-1",
+    "title": "Python Scripts & Automation Telegram",
+    "platform": "Telegram",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Daily Python scripts for 3D file conversion (OBJ/FBX/glTF), asset renaming, and pipeline automation.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "telegram",
+      "python",
+      "assets",
+      "scripts"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-24"
+  },
+  {
     "id": "game-dev-indie-studios-hub-discord-20260923-1",
     "title": "Python Developers Official Discord",
     "platform": "Discord",
@@ -14,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-23"
   },
   {
