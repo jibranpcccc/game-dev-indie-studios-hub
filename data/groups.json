@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-reddit-20260925-1",
+    "title": "r/webdev WebGL & Three.js Graphics",
+    "platform": "Reddit",
+    "category": "WebGL",
+    "memberCount": "2,200,000+ members",
+    "description": "Interactive 3D web experiences, Three.js scenes, WebGPU shaders, and glTF model loading.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "webgl",
+      "threejs",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "game-dev-indie-studios-hub-telegram-20260924-1",
     "title": "Python Scripts & Automation Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {
