@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-discord-20260930-1",
+    "title": "Tech Community Discord",
+    "platform": "Discord",
+    "category": "Tech",
+    "memberCount": "55,000+ members",
+    "description": "Discussions on workstation GPUs, VR headsets, color-calibrated monitors, and render farms.",
+    "joinUrl": "https://discord.gg/tech",
+    "tags": [
+      "tech",
+      "gpu",
+      "renderfarm",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-30"
+  },
+  {
     "id": "game-dev-indie-studios-hub-telegram-20260929-1",
     "title": "Web Developers Network Telegram",
     "platform": "Telegram",
@@ -14,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-29"
   },
   {
