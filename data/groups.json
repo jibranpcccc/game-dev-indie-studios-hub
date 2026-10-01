@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-reddit-20261001-1",
+    "title": "r/programming Rendering Architecture",
+    "platform": "Reddit",
+    "category": "Programming",
+    "memberCount": "5,800,000+ members",
+    "description": "Technical discussions on spatial acceleration structures (BVH), ray tracing hardware, and algorithms.",
+    "joinUrl": "https://www.reddit.com/r/programming/",
+    "tags": [
+      "programming",
+      "raytracing",
+      "bvh",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-01"
+  },
+  {
     "id": "game-dev-indie-studios-hub-discord-20260930-1",
     "title": "Tech Community Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-30"
   },
   {
