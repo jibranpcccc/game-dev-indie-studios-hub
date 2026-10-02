@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-forum-20261002-1",
+    "title": "Hacker News Graphics & Engines Forum",
+    "platform": "Forum",
+    "category": "Hacker News",
+    "memberCount": "5,000,000+ members",
+    "description": "Deep-dive technical discussions on computer graphics history, novel shader papers, and engines.",
+    "joinUrl": "https://news.ycombinator.com",
+    "tags": [
+      "ycombinator",
+      "graphics",
+      "papers",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-02"
+  },
+  {
     "id": "game-dev-indie-studios-hub-reddit-20261001-1",
     "title": "r/programming Rendering Architecture",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-01"
   },
   {
