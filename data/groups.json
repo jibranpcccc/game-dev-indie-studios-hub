@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-dev-indie-studios-hub-reddit-20261005-1",
+    "title": "r/Midjourney Concept Art & 3D Lighting",
+    "platform": "Reddit",
+    "category": "Concept Art",
+    "memberCount": "1,300,000+ members",
+    "description": "Sharing generative concept art prompts, volumetric lighting studies, and character turnarounds.",
+    "joinUrl": "https://www.reddit.com/r/Midjourney/",
+    "tags": [
+      "midjourney",
+      "lighting",
+      "concept",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-05"
+  },
+  {
     "id": "game-dev-indie-studios-hub-discord-20261003-1",
     "title": "Midjourney Visual Art & Concepting Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-03"
   },
   {
