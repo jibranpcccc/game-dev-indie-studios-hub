@@ -4,10 +4,17 @@
     <title>Indie Game Developers &amp; Modders Hub</title>
     <link>https://jibranpcccc.github.io/game-dev-indie-studios-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:00:25 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/game-dev-indie-studios-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
+      <link>https://discord.gg/golang</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-discord-20261013-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:25 GMT</pubDate>
+      <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
       <link>https://www.reddit.com/r/golang/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-reddit-20261011-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-forum-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:02:16 GMT</pubDate>
       <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: The premier community forum for 3D digital art, animation showcases, render techniques, and critiques.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/Houdini Procedural Generation &amp; FX (Reddit)</title>
-      <link>https://www.reddit.com/r/Houdini/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 08:29:55 GMT</pubDate>
-      <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: SideFX Houdini procedural node setups, VEX scripting, particle simulations, pyro, and fluid dynamics.</description>
     </item>
   </channel>
 </rss>
