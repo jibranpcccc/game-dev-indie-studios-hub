@@ -4,10 +4,17 @@
     <title>Indie Game Developers &amp; Modders Hub</title>
     <link>https://jibranpcccc.github.io/game-dev-indie-studios-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:00:26 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/game-dev-indie-studios-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
+      <link>https://www.reddit.com/r/typescript/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-reddit-20261015-1-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:26 GMT</pubDate>
+      <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
       <link>https://discord.gg/golang</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-discord-20261013-1-2026-10-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-telegram-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:06:43 GMT</pubDate>
       <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: Curated 3D asset bundles, indie game progress videos, and game engine release announcements.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Blender Artists Community Forum (Forum)</title>
-      <link>https://blenderartists.org</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-forum-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:02:16 GMT</pubDate>
-      <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: The premier community forum for 3D digital art, animation showcases, render techniques, and critiques.</description>
     </item>
   </channel>
 </rss>
