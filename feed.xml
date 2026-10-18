@@ -4,10 +4,17 @@
     <title>Indie Game Developers &amp; Modders Hub</title>
     <link>https://jibranpcccc.github.io/game-dev-indie-studios-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:00:25 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/game-dev-indie-studios-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Vue Land Community Discord (Discord)</title>
+      <link>https://discord.gg/vue</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-discord-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:25 GMT</pubDate>
+      <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
       <link>https://discord.gg/nextjs</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-discord-20261017-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-telegram-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:14:31 GMT</pubDate>
       <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: Updates on Rust graphics engines, 3D math libraries, and real-time raytracing crates.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/rust Game &amp; Renderer Development (Reddit)</title>
-      <link>https://www.reddit.com/r/rust/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/game-dev-indie-studios-hub/#game-dev-indie-studios-hub-reddit-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:00:23 GMT</pubDate>
-      <description>Newly verified community added to Indie Game Developers &amp; Modders Hub: Building graphics renderers and game engines in Rust with WGPU, Bevy, and Vulkan bindings.</description>
     </item>
   </channel>
 </rss>
