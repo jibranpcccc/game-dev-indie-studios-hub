@@ -1,5 +1,24 @@
 [
   {
+    "id": "unity-reddit-2",
+    "title": "r/unity3d Engine Creators Guild",
+    "platform": "Reddit",
+    "category": "unity",
+    "memberCount": "420,000+ members",
+    "description": "Dedicated community for Unity developers sharing C# scripting techniques, shader graphs, DOTS architecture, and asset workflows.",
+    "joinUrl": "https://www.reddit.com/r/unity3d/",
+    "tags": [
+      "unity",
+      "reddit",
+      "csharp",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "game-jams-reddit-1",
     "title": "r/gamedev Premier Developer Subreddit",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -715,24 +734,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "unity-reddit-2",
-    "title": "r/unity3d Engine Creators Guild",
-    "platform": "Reddit",
-    "category": "unity",
-    "memberCount": "420,000+ members",
-    "description": "Dedicated community for Unity developers sharing C# scripting techniques, shader graphs, DOTS architecture, and asset workflows.",
-    "joinUrl": "https://www.reddit.com/r/unity3d/",
-    "tags": [
-      "unity",
-      "reddit",
-      "csharp",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "unreal-engine-5-reddit-3",
