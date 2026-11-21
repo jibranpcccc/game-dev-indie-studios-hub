@@ -1,5 +1,24 @@
 [
   {
+    "id": "godot-reddit-4",
+    "title": "r/godot Open Source Game Engine Guild",
+    "platform": "Reddit",
+    "category": "godot",
+    "memberCount": "210,000+ members",
+    "description": "Passionate open-source community for Godot 4 creators sharing GDScript patterns, node trees, 2D physics, and web exports.",
+    "joinUrl": "https://www.reddit.com/r/godot/",
+    "tags": [
+      "godot",
+      "reddit",
+      "gdscript",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "unreal-engine-5-reddit-3",
     "title": "r/unrealengine Next-Gen Developers",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -753,24 +772,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "godot-reddit-4",
-    "title": "r/godot Open Source Game Engine Guild",
-    "platform": "Reddit",
-    "category": "godot",
-    "memberCount": "210,000+ members",
-    "description": "Passionate open-source community for Godot 4 creators sharing GDScript patterns, node trees, 2D physics, and web exports.",
-    "joinUrl": "https://www.reddit.com/r/godot/",
-    "tags": [
-      "godot",
-      "reddit",
-      "gdscript",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "pixel-art-reddit-5",
