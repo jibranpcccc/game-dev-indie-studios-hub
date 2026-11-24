@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-jams-reddit-7",
+    "title": "r/IndieGaming Showcase Community",
+    "platform": "Reddit",
+    "category": "game jams",
+    "memberCount": "290,000+ members",
+    "description": "Showcase and discovery subreddit for independent games, devlogs, gameplay trailers, and community playtesting feedback.",
+    "joinUrl": "https://www.reddit.com/r/IndieGaming/",
+    "tags": [
+      "game-jams",
+      "reddit",
+      "showcase",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "game-jams-reddit-6",
     "title": "r/gameassets Free & Open Resource Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -810,24 +829,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "game-jams-reddit-7",
-    "title": "r/IndieGaming Showcase Community",
-    "platform": "Reddit",
-    "category": "game jams",
-    "memberCount": "290,000+ members",
-    "description": "Showcase and discovery subreddit for independent games, devlogs, gameplay trailers, and community playtesting feedback.",
-    "joinUrl": "https://www.reddit.com/r/IndieGaming/",
-    "tags": [
-      "game-jams",
-      "reddit",
-      "showcase",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "game-jams-reddit-8",
