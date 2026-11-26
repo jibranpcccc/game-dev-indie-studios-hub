@@ -1,5 +1,24 @@
 [
   {
+    "id": "game-jams-reddit-9",
+    "title": "r/IndieDev Solo & Studio Creators",
+    "platform": "Reddit",
+    "category": "game jams",
+    "memberCount": "160,000+ members",
+    "description": "Resource-sharing hub for solo indie developers and boutique micro-studios navigating Kickstarter, Steam Next Fest, and early access.",
+    "joinUrl": "https://www.reddit.com/r/IndieDev/",
+    "tags": [
+      "game-jams",
+      "reddit",
+      "solodev",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "game-jams-reddit-8",
     "title": "r/gamedesign Systems & Mechanics Guild",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -848,24 +867,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "game-jams-reddit-9",
-    "title": "r/IndieDev Solo & Studio Creators",
-    "platform": "Reddit",
-    "category": "game jams",
-    "memberCount": "160,000+ members",
-    "description": "Resource-sharing hub for solo indie developers and boutique micro-studios navigating Kickstarter, Steam Next Fest, and early access.",
-    "joinUrl": "https://www.reddit.com/r/IndieDev/",
-    "tags": [
-      "game-jams",
-      "reddit",
-      "solodev",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "unity-reddit-10",
